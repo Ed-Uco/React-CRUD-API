@@ -2,7 +2,7 @@
 
 # Proyecto Frontend - Catálogo de Compañías
 Proyecto frontend desarrollado para la creación de registros con un CRUD completo utilizando React.
-La intereacción se realiza con el backend [backend](https://github.com/Ed-Uco/Django-api)  desarrollado con Django y una base de datos en MySQL ()
+La intereacción se realiza con el [backend](https://github.com/Ed-Uco/Django-api)  desarrollado con Django y una base de datos en MySQL ()
  
  
 
