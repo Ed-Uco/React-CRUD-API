@@ -14,6 +14,7 @@ ReactDOM.render(
         <Routes>
             <Route path="/" element={<CompanyList />}/>
             <Route path="/CompanyForm" element={<CompanyForm />} />
+            <Route path="/updateCompany/:id" element={<CompanyForm />} />
        </Routes>
      </div>
     </BrowserRouter>,
