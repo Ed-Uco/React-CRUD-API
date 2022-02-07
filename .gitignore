@@ -3,7 +3,7 @@
 # dependencies
 node_modules/
 .env
-pacjage-lock.json
+package-lock.json
 /.pnp
 .pnp.js
 
